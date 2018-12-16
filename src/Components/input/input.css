@@ -1,0 +1,23 @@
+.input label{
+    color: darkblue;
+    /* vertical-align: top; */
+    font-weight: bold;
+    clear:left;
+    padding: 0;
+    /* width:110px; */
+    word-wrap: break-word;  
+}
+
+.input{
+    display: flex;
+    /* margin: 5px; */
+    margin: 5px 0;
+    box-sizing: border-box;
+   
+}
+
+.card{
+    display: flex
+}
+
+

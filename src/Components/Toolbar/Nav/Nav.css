@@ -1,0 +1,36 @@
+.NavItem{
+    margin: 10px 0;
+    box-sizing: border-box;
+    display: flex;
+    width: 100%;
+    padding: 12px 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.NavItem li{
+    list-style: none;
+    box-sizing: border-box;
+
+}
+
+
+    
+    .NavItem a{
+        color:#7a7b7e;
+        height: 100%;
+        padding : 16px 10px;
+        margin: 0;
+        text-decoration: none;  
+        font-family: 'arial';
+        font-weight:bold      
+    }
+    
+    .NavItem a:hover,
+    .NavItem a:active,
+    .NavItem a.active{
+        color: #f0b608;
+        text-decoration: none;        
+        
+    }

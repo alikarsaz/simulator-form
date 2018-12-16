@@ -1,0 +1,30 @@
+
+
+ .mainHeader {
+    font-size: 20px;
+
+    font-family: 'arial';
+    font-weight: bolder;
+    color:#616264;
+    margin-top:20px;
+    align-content: middle;
+  }
+
+  @media(min-width:600px)
+  {
+    .mainHeader{
+    font-size: 2rem;
+          
+      }
+  }
+
+  @media(min-width:900px)
+  {
+    .mainHeader{
+    font-size: 3rem;
+          
+      }
+  }
+  
+  
+  
